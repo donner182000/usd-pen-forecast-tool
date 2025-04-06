@@ -1,0 +1,1 @@
+console.log('USD-PEN Forecast Tool Loaded');
