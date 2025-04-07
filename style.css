@@ -1,1 +1,22 @@
-body { font-family: sans-serif; padding: 2em; }
+/* General Body Styling */
+body {
+    font-family: sans-serif;
+    padding: 2em;
+    background-color: #f4f4f4; /* Light background color */
+    margin: 0; /* Remove default margin */
+}
+
+/* Heading Styling */
+h1 {
+    color: #333; /* Dark grey color for headings */
+    text-align: center; /* Center align the heading */
+}
+
+/* Paragraph Styling */
+p {
+    color: #555; /* Lighter grey color for paragraphs */
+    font-size: 1.2em; /* Slightly larger font size */
+    text-align: center; /* Center align the text */
+}
+
+/* Add more styles here as needed */

@@ -1,4 +1,4 @@
 // Log a message to the console
-console.log("USD to PEN Forecast Tool is working!");
+console.log("Deployment triggered for rebuild.");
 
 // You could add more functionality here, such as fetching data, handling user input, etc.
